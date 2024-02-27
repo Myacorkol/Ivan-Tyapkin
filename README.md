@@ -17,7 +17,7 @@
 
 - :zap: Являюсь действующим студентом в RS school (stage 1).
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ivanTyapkin78) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.tyapkin78@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-TyapkinIvan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ivanTyapkin78) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.tyapkin78@gmail.com)
 
 ---
 
